@@ -15,7 +15,7 @@ const Hero = () => {
               BENJABROU Hicham
             </h1>
             <p className="text-gray-600 mb-8 leading-relaxed animate-fade-in">
-              <span className="font-bold text-gray-900">Ingénieur en Génie Informatique</span> en fin de formation, avec une expertise en développement Full Stack (JavaScript, Java, Angular, React, Flutter) et un intérêt marqué pour le Machine Learning. Solide expérience en configuration et sécurisation de réseaux (VPN, pare-feux), acquise lors de stages pratiques. Compétences complémentaires en DevOps (Docker, Kubernetes, CI/CD), Cloud et maîtrise des méthodes Agile (SCRUM).
+              <span className="font-bold text-gray-900">Ingénieur en Génie Logiciel</span> en fin de formation, avec une expertise en développement Full Stack (JavaScript, Java, Angular, React, Flutter) et un intérêt marqué pour le Machine Learning. Solide expérience en configuration et sécurisation de réseaux (VPN, pare-feux), acquise lors de stages pratiques. Compétences complémentaires en DevOps (Docker, Kubernetes, CI/CD), Cloud et maîtrise des méthodes Agile (SCRUM).
             </p>
 
             <div className="space-y-3">
