@@ -4,7 +4,7 @@ export const experiences = [
     type: "Stage",
     poste: "Stage de fin d'études – Ingénierie DevSecOps",
     entreprise: "DXC Technology",
-    periode: "Février - Juillet 2025",
+    periode: "Mars - Août 2025",
     lieu: "Rabat Technopolis, Maroc",
     image: "/images/dxc.png",
     realisations: [
