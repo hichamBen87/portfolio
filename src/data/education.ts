@@ -1,7 +1,7 @@
 export const education = [
   {
     id: 1,
-    diplome: "Diplôme Ingénieur d'état en Génie logiciel",
+    diplome: "Diplôme d' Ingénieur d'état en Génie logiciel",
     ecole: "Faculté Polytechnique, Universiapolis",
     annee: "2025",
     lieu: "Agadir, Maroc",
