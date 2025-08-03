@@ -1,11 +1,11 @@
 export const education = [
   {
     id: 1,
-    diplome: "5ème année cycle d'ingénieur en Génie Informatique",
+    diplome: "Diplôme Ingénieur d'état en Génie logiciel",
     ecole: "Faculté Polytechnique, Universiapolis",
-    annee: "En cours",
+    annee: "2025",
     lieu: "Agadir, Maroc",
-    description: "Formation en cours",
+    description: "Ingénieur d'état",
     image: "/images/universiapolis.png"
   },
   {
