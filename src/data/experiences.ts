@@ -5,7 +5,7 @@ export const experiences = [
     poste: "Stage de fin d'études – Ingénierie DevSecOps",
     entreprise: "DXC Technology",
     periode: "Février - Juillet 2025",
-    lieu: "Agadir, Maroc",
+    lieu: "Rabat Technopolis, Maroc",
     image: "/images/dxc.png",
     realisations: [
       "Mise en place d'une chaîne DevSecOps complète (CI/CD & GitOps) pour l'application micro-services PitStop",

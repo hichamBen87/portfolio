@@ -8,7 +8,7 @@ const ExperienceCard = ({ experience }: { experience: typeof experiences[0] }) =
       <img
         src={experience.image}
         alt={experience.entreprise}
-        className="w-16 h-16 rounded-lg object-cover mr-4"
+        className="w-16 h-16 rounded-lg object-contain mr-4"
       />
       <div>
         <div className="flex items-center mb-2">
